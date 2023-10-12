@@ -1,5 +1,8 @@
-<img width="708" alt="Screen Shot 2023-10-12 at 10 33 55 AM" src="https://github.com/MIA-PID/projectTemplate/assets/16925921/5c36ca0d-778d-492f-aafa-3edd3f0b2f5c">
+
+![Proyecto I de innovación Tecnológica en Inteligencia Artificial (4)](https://github.com/MIA-PID/projectTemplate/assets/16925921/2ff335c7-65a6-4b2b-9eae-3612b8d64e93)
 ____________________________________________________________________________________
+
+
 # Project Template
 This is the template for the capstone project course called **Proyecto 1 de Innovación Tecnológica** in the Applied Artificial Intelligence Master, Universidad Icesi, Cali Colombia
 
