@@ -1,21 +1,41 @@
-# projectTemplate
-Template for the data engineering project course in the MIA
-This template is based on the https://github.com/sfbrigade/data-science-wg/blob/master/dswg_project_resources/Project-README-template.md
+<img width="708" alt="Screen Shot 2023-10-12 at 10 33 55 AM" src="https://github.com/MIA-PID/projectTemplate/assets/16925921/5c36ca0d-778d-492f-aafa-3edd3f0b2f5c">
+______________________________________________________________________________________________________________________________________________
 
+# Project Template
+This is the template for the capstone project course called **Proyecto 1 de Innovación Tecnológica** in the Applied Artificial Intelligence Master, Universidad Icesi, Cali Colombia
 
-https://www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workflow 
+This template is based on the template proposed by the [Data Science Working Group] (https://github.com/sfbrigade/data-science-wg) Code for the [San Francisco’s Code initiative](https://github.com/sfbrigade/data-science-wg) 
 
-*Instructions: Click on the raw button in the upper right hand corner of this box.  Copy and paste the template into the README.md document on your github.  Fill in the titles, information and links where prompted! Feel free to stray a bit to suit your project but try to stick to the format as closely as possible for consistency across DSWG projects.*
+*Instructions: Edit this template filling in the titles, information, and links! Feel free to stray a bit to suit your project but try to provide the main information for reviews and feedback purposes.*
+
+______________________________________________________________________________________________________________________________________________
 
 # Project Name
-This project is a part of the [Data Science Working Group](http://datascience.codeforsanfrancisco.org) at [Code for San Francisco](http://www.codeforsanfrancisco.org).  Other DSWG projects can be found at the [main GitHub repo](https://github.com/sfbrigade/data-science-wg).
+This project is a part of the  **Proyecto 1 de Innovación Tecnológica** course in the Applied Artificial Intelligence Master, Universidad Icesi, Cali Colombia. 
 
 #### -- Project Status: [Active, On-Hold, Completed]
+
+## Contributing Members
+
+**Team Leader: [Full Name](https://github.com/[github handle])(@slackHandle)**
+**Instructor: [Full Name](https://github.com/[github handle])(@slackHandle)**
+
+#### Other Members:
+
+|Name     |  Email   | 
+|---------|-----------------|
+|[Full Name](https://github.com/[github handle])| @johnDoe        |
+|[Full Name](https://github.com/[github handle]) |     @janeDoe    |
+
+## Contact
+* Feel free to contact the team leader or the instructor with any questions or if you are interested in contributing!
+
 
 ## Project Intro/Objective
 The purpose of this project is ________. (Describe the main goals of the project and potential civic impact. Limit to a short paragraph, 3-6 Sentences)
 
 ### Partner
+This section should be added when there's a partner institution 
 * [Name of Partner organization/Government department etc..]
 * Website for partner
 * Partner contact: [Name of Contact], [slack handle of contact if any]
@@ -39,23 +59,14 @@ The purpose of this project is ________. (Describe the main goals of the project
 * etc. 
 
 ## Project Description
-(Provide more detailed overview of the project.  Talk a bit about your data sources and what questions and hypothesis you are exploring. What specific data analysis/visualization and modelling work are you using to solve the problem? What blockers and challenges are you facing?  Feel free to number or bullet point things here)
-
-## Needs of this project
-
-- frontend developers
-- data exploration/descriptive statistics
-- data processing/cleaning
-- statistical modeling
-- writeup/reporting
-- etc. (be as specific as possible)
+(Provide a more detailed overview of the project.  Talk a bit about your data sources and what questions and hypotheses you are exploring. What specific data analysis/visualization and modeling work are you using to solve the problem? What blockers and challenges are you facing?  Feel free to number or bullet point things here)
 
 ## Getting Started
-
+Instructions for contributors
 1. Clone this repo (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/)).
 2. Raw Data is being kept [here](Repo folder containing raw data) within this repo.
 
-    *If using offline data mention that and how they may obtain the data from the froup)*
+    *If using offline data mention that and how contributors may obtain the data )*
     
 3. Data processing/transformation scripts are being kept [here](Repo folder containing data processing scripts/notebooks)
 4. etc...
@@ -70,18 +81,3 @@ The purpose of this project is ________. (Describe the main goals of the project
 * [Blog Post](link)
 
 
-## Contributing DSWG Members
-
-**Team Leads (Contacts) : [Full Name](https://github.com/[github handle])(@slackHandle)**
-
-#### Other Members:
-
-|Name     |  Slack Handle   | 
-|---------|-----------------|
-|[Full Name](https://github.com/[github handle])| @johnDoe        |
-|[Full Name](https://github.com/[github handle]) |     @janeDoe    |
-
-## Contact
-* If you haven't joined the SF Brigade Slack, [you can do that here](http://c4sf.me/slack).  
-* Our slack channel is `#datasci-projectname`
-* Feel free to contact team leads with any questions or if you are interested in contributing!
