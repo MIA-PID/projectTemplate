@@ -1,14 +1,13 @@
 <img width="708" alt="Screen Shot 2023-10-12 at 10 33 55 AM" src="https://github.com/MIA-PID/projectTemplate/assets/16925921/5c36ca0d-778d-492f-aafa-3edd3f0b2f5c">
-______________________________________________________________________________________________________________________________________________
-
+____________________________________________________________________________________
 # Project Template
 This is the template for the capstone project course called **Proyecto 1 de Innovación Tecnológica** in the Applied Artificial Intelligence Master, Universidad Icesi, Cali Colombia
 
 This template is based on the template proposed by the [Data Science Working Group] (https://github.com/sfbrigade/data-science-wg) Code for the [San Francisco’s Code initiative](https://github.com/sfbrigade/data-science-wg) 
 
 *Instructions: Edit this template filling in the titles, information, and links! Feel free to stray a bit to suit your project but try to provide the main information for reviews and feedback purposes.*
-
-______________________________________________________________________________________________________________________________________________
+## Remove this table after updating your project's information
+____________________________________________________________________________________
 
 # Project Name
 This project is a part of the  **Proyecto 1 de Innovación Tecnológica** course in the Applied Artificial Intelligence Master, Universidad Icesi, Cali Colombia. 
